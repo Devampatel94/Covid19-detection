@@ -1,4 +1,4 @@
-# COVID-19 Detection Using Chest X-rays 🦠🔍
+# COVID-19 Detection Using Chest X-rays 🚀🔍
 
 
 ## Overview
@@ -32,10 +32,36 @@ Ensure you have the following installed:
     ```
 
 2. Install the required packages:
-    ```sh
+    -
     pip install -r requirements.txt
     ```
 
 ### Dataset 📁
 
-Place your dataset in the following directory structure:
+you can download the dataset from here:-https://data.mendeley.com/datasets/xztwjmktrg/2
+
+### Results 📊
+
+The following table shows the accuracy of different models:
+
+| Model                  | Accuracy |
+|------------------------|----------|
+| Logistic Regression    | 95%      |
+| Support Vector Machine | 97%      |
+| Random Forest          | 94%      |
+| K-Nearest Neighbors    | 93%      |
+| Decision Tree          | 92%      |
+| Naive Bayes            | 90%      |
+
+
+
+## Acknowledgements 🙏
+
+- This project is inspired by the need for accurate and efficient COVID-19 detection.
+- Special thanks to the open-source community for providing valuable tools and resources.
+
+---
+
+### Contact 📧
+
+For any queries or suggestions, please reach out to b22ch021@iitj.ac.in.
